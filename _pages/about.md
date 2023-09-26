@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>mobile: 86-19357570368</p>
+    <p>No. 38 Zheda Road, Zhejiang University</p>
+    <p>Hangzhou, China</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -20,7 +20,3 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Received the B.S. degree from Tianjin University, Tianjin, China in 2017. Currently pursuing the M.Sc degree at Zhejiang University, Hangzhou, China. Resear interests: object detection, remote sensing, image restoration.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
